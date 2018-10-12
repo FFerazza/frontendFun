@@ -1,7 +1,3 @@
-//FFerazza - exit intent logic to detect out of document mouseouts on desktop / scroll exit intents on mobile
-//logic fully speccable as per instructions below
-//
-
 function ZDExitIntent(callback, options) {
  // defaults to become options - Scrollinterval > ms delay between event listeners to avoid mem hogging
  //
